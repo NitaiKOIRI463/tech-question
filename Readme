@@ -19,7 +19,7 @@ The Apis Information and their Urls
  */
  URL
 
-http://localhost:5000/api/vi/calculation/fibonacci/:position
+http://localhost:5000/api/v1/calculation/fibonacci/:position
 
 /**
  * Question 2:
@@ -49,7 +49,7 @@ http://localhost:5000/api/vi/calculation/fibonacci/:position
  */
 URL
 
-http://localhost:5000/api/vi/calculation/balanced-substrings/:substring
+http://localhost:5000/api/v1/calculation/balanced-substrings/:substring
 
 /**
  * 
@@ -85,5 +85,5 @@ http://localhost:5000/api/vi/calculation/balanced-substrings/:substring
  */
 URL
 
-http://localhost:5000/api/vi/calculation/migrate-rings/:noOfRings
+http://localhost:5000/api/v1/calculation/migrate-rings/:noOfRings
 
